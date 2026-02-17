@@ -19,7 +19,7 @@
     "ip-regex": "^5.0.0",
     "memoizee": "^0.4.17",
     "psl": "^1.15.0",
-    "structured-headers": "^2.0.1",
+    "structured-headers": "^2.0.2",
     "ts-command-line-args": "^2.5.1"
   },
   "devDependencies": {
